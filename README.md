@@ -1,6 +1,11 @@
 # HdtfPocClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.1.
+The project was moved and further developed in a private repo.
+
+The Health Data Transfer Framework Client was meant to call HDTF APIs to retrieve patient health data that originated from FHIR servers. This client handles user login, patient search, and patient data retrieval/display.
+
+In its most matured form, the client can send a request to another user to send patient data.
 
 ## Development server
 
